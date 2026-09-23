@@ -5,3 +5,10 @@ regular:
 
 second_binary:
 	cd hello-rust && cargo run --bin main_2
+
+
+array-examples:
+	cd hello-rust && cargo run --bin array_examples
+
+struct-examples:
+	cd hello-rust && cargo run --bin struct_examples
